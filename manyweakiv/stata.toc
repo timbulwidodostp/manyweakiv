@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p manyweakiv Weak-identification robust jackknife AR test from Mikusheva and Sun (2022) Use manyweakiv (manyweakivtest And manyweakivpretest) With STATA 19
